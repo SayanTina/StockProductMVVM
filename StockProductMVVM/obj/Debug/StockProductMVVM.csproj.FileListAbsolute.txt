@@ -1,0 +1,16 @@
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM_MarkupCompile.cache
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM_MarkupCompile.lref
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\bin\Debug\StockProductMVVM.exe.config
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\bin\Debug\StockProductMVVM.exe
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\bin\Debug\StockProductMVVM.pdb
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM.g.resources
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM.exe
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\StockProductMVVM.pdb
+c:\users\windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\App.g.cs
+C:\Users\Windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\Views\MainWindow.baml
+C:\Users\Windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\Views\FormProduct.g.cs
+C:\Users\Windows\documents\visual studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Debug\Views\FormProduct.baml

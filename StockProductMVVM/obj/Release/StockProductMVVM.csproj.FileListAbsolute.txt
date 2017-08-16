@@ -1,0 +1,5 @@
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Release\MainWindow.baml
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Release\MainWindow.g.cs
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Release\StockProductMVVM_MarkupCompile.cache
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\StockProductMVVM\StockProductMVVM\obj\Release\StockProductMVVM_MarkupCompile.lref
